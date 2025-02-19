@@ -1,7 +1,11 @@
-每个文件夹对应一个实验方法
+GB-IDS: An Intrusion Detection System for CAN Bus Based on Graph Analysis
 
-其中pagerank的main函数要手动输入训练或测试
 
-can和svm的函数直接运行就可以
-
-文件夹内保存了目前训练好的模型和阈值
+@inproceedings{meng2023gb,
+  title={GB-IDS: An Intrusion Detection System for CAN Bus Based on Graph Analysis},
+  author={Meng, Yan and Li, Jiachun and Liu, Fazhong and Li, Shaofeng and Hu, Haotian and Zhu, Haojin},
+  booktitle={2023 IEEE/CIC International Conference on Communications in China (ICCC)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+}
